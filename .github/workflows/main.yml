@@ -1,0 +1,24 @@
+name: deploy to branch
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.18.0
+      - run: |
+          git checkout -b deploy
+          zola build
+          ls | grep -v public | xargs rm -rf 
+          mv public/* .
+          rmdir public
+          git add --force .
+          git commit -m"update website"
+          git push origin deploy
+        
