@@ -3,6 +3,8 @@ name: deploy to branch
 on:
   push:
     branches: [ main ]
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,12 +17,12 @@ jobs:
       - run: |
           git checkout -b deploy
           zola build
-          ls | grep -v public | xargs rm -rf 
+          ls | grep -v public | xargs rm -rf
           mv public/* .
           rmdir public
-          git config --global user.email "github-action"
-          git config --global user.name "action bot"
+          git config --global user.email "kirederik@users.noreply.github.com"
+          git config --global user.name "Derik Evangelista"
           git add --force .
-          git commit -m"update website"
+          git commit -m"[automated commit] update website"
           git push origin deploy
-        
+
