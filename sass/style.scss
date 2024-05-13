@@ -1,0 +1,17 @@
+@import "../themes/no-style-please/sass/style.scss";
+
+html, body {
+    background-color: #dcdcdc;
+    text-transform: lowercase;
+}
+
+.giscus {
+    margin-top: 2em;
+    filter: invert(1)!important;
+}
+
+footer > nav {
+    margin-top: 3em;
+}
+
+
