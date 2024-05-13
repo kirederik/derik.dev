@@ -18,6 +18,8 @@ jobs:
           ls | grep -v public | xargs rm -rf 
           mv public/* .
           rmdir public
+          git config --global user.email "github-action"
+          git config --global user.name "action bot"
           git add --force .
           git commit -m"update website"
           git push origin deploy
