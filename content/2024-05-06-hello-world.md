@@ -5,13 +5,13 @@ taxonomies:
   tags: [ "untagged" ]
 ---
 
-i've tried to start a blog a few timesbut never really got into it. reasons for
+i've tried to start a blog a few times but never really got into it. reasons for
 previous failures varies, but it's usually me overthinking it, spending too much
 time either looking for the perfect setup/framework to use, or trying to
 vertically-align something on the page with css, or only publishing when i have
 complete, well-thought-out, deep content to share.
 
-so this time around i'm goign to try something different.
+so this time around i'm going to try something different.
 
 no fancy setup: this is a static website built with
 [zola](https://www.getzola.org/), with a basic
