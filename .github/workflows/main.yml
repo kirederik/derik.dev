@@ -18,6 +18,8 @@ jobs:
           zola build
           mkdir /tmp/build
           mv public/* /tmp/build
+          git checkout .
+          git fetch
           git checkout deploy || git checkout -b deploy
           mv /tmp/build* .
           git config --global user.email "kirederik@users.noreply.github.com"
