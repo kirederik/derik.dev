@@ -21,7 +21,7 @@ jobs:
           git checkout .
           git fetch
           git checkout deploy || git checkout -b deploy
-          mv /tmp/build* .
+          mv /tmp/build/* .
           git config --global user.email "kirederik@users.noreply.github.com"
           git config --global user.name "Derik Evangelista"
           git add --force .
