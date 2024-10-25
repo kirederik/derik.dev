@@ -24,8 +24,8 @@
         
         <content type="html" xml:base="https://derik.dev/leaddev/">&lt;p&gt;On the 11th and 12th of June, at the iconic Barbican in London, LeadDev hosted
 the 2024 edition of the conference. I had the pleasure to attend this year as an
-activity host, facilitating a table talk discussion on the topic of &amp;quot;how to
-interpret engineering data in a holistic way&amp;quot;.&lt;&#x2F;p&gt;
+activity host, facilitating a table talk discussion on the topic of &quot;how to
+interpret engineering data in a holistic way&quot;.&lt;&#x2F;p&gt;
 &lt;p&gt;I intend to (time permitting) dedicate a separate blog post to the insights and
 learnings from that discussion. in this post, I want to share some of the
 highlights from the talks I attended.&lt;&#x2F;p&gt;
@@ -101,20 +101,20 @@ ever-changing requirements and challenges they faced.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;the-boss-s-shoes-don-t-fit-and-other-surprises-of-leadership&quot;&gt;The boss&#x27;s shoes don&#x27;t fit: and other surprises of leadership&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;em&gt;By Inna Weiner&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Inna started her talk by asking the audience if anyone ever thought something
-like &lt;em&gt;&amp;quot;if only i were in my manager&#x27;s shoes, I would...&amp;quot;&lt;&#x2F;em&gt;. She was there, and,
+like &lt;em&gt;&quot;if only i were in my manager&#x27;s shoes, I would...&quot;&lt;&#x2F;em&gt;. She was there, and,
 now that she &lt;em&gt;is&lt;&#x2F;em&gt; the boss, she found out that things are not always as easy as
 they seem.&lt;&#x2F;p&gt;
 &lt;p&gt;She shared five lessons&#x2F;rules she learned on her journey to become the manager:&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;1-speak-less&quot;&gt;1. Speak less&lt;&#x2F;h3&gt;
 &lt;p&gt;It&#x27;s likely that, as a leader, you are &lt;strong&gt;not&lt;&#x2F;strong&gt; the person with the most
-context. However, your words are amplified via a &amp;quot;megaphone&amp;quot;. You are &lt;em&gt;the
+context. However, your words are amplified via a &quot;megaphone&quot;. You are &lt;em&gt;the
 boss&lt;&#x2F;em&gt; at the end of the day.&lt;&#x2F;p&gt;
 &lt;p&gt;Any question can be a call to action; any comment may be taken as a decision.&lt;&#x2F;p&gt;
 &lt;p&gt;What&#x27;s the alternative? Listen more.&lt;&#x2F;p&gt;
 &lt;p&gt;Not only what&#x27;s being said, but what&#x27;s implied, who&#x27;s speaking and who&#x27;s not,
 non-verbal clues, etc.&lt;&#x2F;p&gt;
 &lt;p&gt;What if you really need to say something? You don&#x27;t want to be seen as an
-&amp;quot;absent manager&amp;quot;, so you should definitely participate. You also need to report
+&quot;absent manager&quot;, so you should definitely participate. You also need to report
 to your own manager, and they may ask deep questions; you need to know those
 tiny details.&lt;&#x2F;p&gt;
 &lt;p&gt;Which leads to the next rule...&lt;&#x2F;p&gt;
@@ -129,7 +129,7 @@ is important. Be generous with your knowledge.&lt;&#x2F;p&gt;
 Losada 2004 research).&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;be-a-storyteller-framing-matters&quot;&gt;Be a storyteller: Framing matters&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;strong&gt;Accomplishments don&#x27;t speak for themselves&lt;&#x2F;strong&gt;. It&#x27;s on the manager to share and
-tell the stories about the success of their teams. &amp;quot;doing the quiet work&amp;quot; won&#x27;t
+tell the stories about the success of their teams. &quot;doing the quiet work&quot; won&#x27;t
 get noticed.&lt;&#x2F;p&gt;
 &lt;p&gt;You should also consider carefully who&#x27;s the audience of a given message. It&#x27;s
 unlikely that your manager cares about the deep details of your project, but
@@ -149,7 +149,7 @@ acquiring Netflix and Nokia selling its business to Microsoft have in common?&lt
 &lt;p&gt;With the above examples, Jitesh started his talk on the uncertainty of change,
 my favourite of the whole event.&lt;&#x2F;p&gt;
 &lt;p&gt;He goes about stating the obvious: change is constant. Some are small, you just
-carry on. Some really disrupt your life. You can&#x27;t know from the &amp;quot;change&amp;quot;
+carry on. Some really disrupt your life. You can&#x27;t know from the &quot;change&quot;
 itself, so that brings the uncertainty. What changes will be small? What changes
 will be big?&lt;&#x2F;p&gt;
 &lt;p&gt;Certainty is comfortable, uncertainty is not. And that is wired in our biology,
@@ -189,7 +189,7 @@ becomes.&lt;&#x2F;li&gt;
 to understand it, etc. Which makes it more complex.&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;For him, one of the problems with current testing is that it&#x27;s framed as a
-&amp;quot;bug-catching&amp;quot; tool: you test all combinations and all things together and hope
+&quot;bug-catching&quot; tool: you test all combinations and all things together and hope
 to catch any bug that may be there. He proposes a reframing: what if we take
 tests as a way to reduce uncertainty?&lt;&#x2F;p&gt;
 &lt;p&gt;Instead of asking how to do more testing, we ask how to reduce the uncertainty
